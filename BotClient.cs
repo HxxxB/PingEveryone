@@ -13,7 +13,7 @@ namespace PingEveryone
 {
     public sealed class BotClient
     {
-        private const string @Token = "NjI3OTkxODc3MDUyMDA2NDAw.Xf62Xg.Zsmj_zikZfbaVVDTX5Xy9bHZJAk";
+        private const string @Token = "Put token here";
 
         [MTAThread]
         private static async Task Main()
